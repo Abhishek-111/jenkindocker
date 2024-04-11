@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yAmNNjvNz1UaQfNn6cf+tS6DsI/6xrT+C8utzK1fEBQ=",
+  "Source": "JenkinsDocker",
+  "BasePath": "_content/JenkinsDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

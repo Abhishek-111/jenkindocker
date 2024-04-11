@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9+hDqjF6te5/eu9NCRmPp0usRWDEJLdnQ98d1m1rbnDWf7fFvxL6vliDXpsL8BgZiAsbA5I3TGfUegbs2wrsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\DotNet\\dotnetJenkinDocker\\dotnetJenkinDocker2\\JenkinsDocker\\JenkinsDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhishekkumar26\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
